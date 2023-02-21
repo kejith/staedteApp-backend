@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<categories><category><category_id>1</category_id><category_name>Gastronomie</category_name><category_parent></category_parent></category><category><category_id>2</category_id><category_name>Hotel</category_name><category_parent></category_parent></category><category><category_id>3</category_id><category_name>Imbiss</category_name><category_parent>1</category_parent></category><category><category_id>4</category_id><category_name>China-Imbiss</category_name><category_parent>3</category_parent></category></categories>
